@@ -51,7 +51,8 @@ nav{
     color: #55557a;
     font-size: 22px;
     font-weight: 500;
-    margin:20px
+    margin:20px;
+    background: #FBFBFF;
 }
 .menu-link {
     color: #55557a;
